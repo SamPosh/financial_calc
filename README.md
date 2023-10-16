@@ -1,2 +1,2 @@
 # financial_calc
-To do financial calculations
+To do important financial calculations
