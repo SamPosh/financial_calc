@@ -23,5 +23,6 @@ FV = 3,000 * [(1 + 0.01167)^180 - 1] / 0.01167
 FV ≈ ₹1,270,704.54
 
 ## Amoritized schedule of EMI
-
+Run emi_amoritized_schedule.py 
+You can provide maximum extra payment you can do per month, based on this it will save the result in csv file
 
