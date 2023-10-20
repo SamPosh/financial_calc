@@ -24,5 +24,5 @@ FV ≈ ₹1,270,704.54
 
 ## Amoritized schedule of EMI
 Run emi_amoritized_schedule.py 
-You can provide maximum extra payment you can do per month, based on this it will save the result in csv file
+You can provide maximum extra payment you can do per month, based on this it will calculate and save the result in csv file
 
